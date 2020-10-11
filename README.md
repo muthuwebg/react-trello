@@ -1,12 +1,10 @@
-Example code for [react-trello](https://github.com/rcdexta/react-trello).
-
 # Setup
 
 Please clone the project, install the dependencies and fire up the project
 
 ```
-$ git clone git@github.com:rcdexta/react-trello-example.git
-$ cd react-trello-example
+$ git clone https://github.com/muthuwebg/react-trello.git
+$ cd react-trello
 $ yarn install
 $ yarn start
 ```
